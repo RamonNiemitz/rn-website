@@ -14,7 +14,7 @@ const HomePage = () => {
                 </div>
 
                 <div className='w-7/12 min-w-80 bg-opacity-50 backdrop-filter backdrop-blur-2xl text-center rounded-3xl overflow-hidden border-2 border-gray-400 mb-6 mt4'>
-                    <p className='text-3xl font-bold mb-2 text-center bg-gradient-to-r from-gray-100 to-gray-300 text-transparent bg-clip-text'>Ramón-Niemitz</p>
+                    <p className='text-3xl font-bold mb-2 text-center bg-gradient-to-r from-gray-100 to-gray-300 text-transparent bg-clip-text'>Ramón Niemitz</p>
                     <p className="text-xl font-bold mb-2 text-center bg-gradient-to-r from-gray-100 to-gray-300 text-transparent bg-clip-text">Musician & Software Engineer</p>
                 </div>
 
